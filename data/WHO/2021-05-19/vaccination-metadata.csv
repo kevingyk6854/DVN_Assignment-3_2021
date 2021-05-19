@@ -1,0 +1,597 @@
+ISO3,VACCINE_NAME,PRODUCT_NAME,COMPANY_NAME,AUTHORIZATION_DATE,START_DATE,END_DATE,COMMENT,DATA_SOURCE
+AUS,Novavax - Covavax,Covavax,Novavax,,,,,REPORTING
+MRT,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,2021-03-26,,,REPORTING
+NER,SII - Covishield,Covishield,Serum Institute of India,2021-03-04,2021-03-29,,,REPORTING
+PRY,Sinovac - CoronaVac,Coronavac,Sinovac,,2021-03-06,,,REPORTING
+EGY,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,,,,REPORTING
+LIE,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2021-02-10,,,REPORTING
+KNA,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,REPORTING
+MHL,Moderna - mRNA-1273,mRNA-1273,Moderna,,2020-12-29,,,REPORTING
+COL,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-03-29,,,REPORTING
+EST,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,2021-04-14,,,REPORTING
+CZE,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-02-10,,,REPORTING
+DOM,Sinovac - CoronaVac,Coronavac,Sinovac,,2021-02-24,,,REPORTING
+PAK,SII - Covishield,Covishield,Serum Institute of India,2021-01-20,2021-02-03,,,REPORTING
+SOM,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,,,,REPORTING
+MKD,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2021-02-17,,,REPORTING
+TLS,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2021-02-23,2021-04-07,,,REPORTING
+MKD,Wuhan CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Wuhan Institute of Biological Products (CNBG),,2021-04-21,,,REPORTING
+DZA,SII - Covishield,Covishield,Serum Institute of India,,2021-01-30,,,REPORTING
+DMA,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,,,,REPORTING
+GIN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2021-01-27,2021-03-05,,,REPORTING
+BEN,Sinovac - CoronaVac,Coronavac,Sinovac,2021-02-26,2021-03-29,,,REPORTING
+CAF,SII - Covishield,Covishield,Serum Institute of India,2021-02-26,2021-03-19,,,REPORTING
+CZE,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,2021-04-21,,,REPORTING
+HRV,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-01-13,,,REPORTING
+ARE,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+AND,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-03-03,,,REPORTING
+LBY,Moderna - mRNA-1273,mRNA-1273,Moderna,,,,,REPORTING
+NER,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),2021-02-23,2021-03-29,,,REPORTING
+CUW,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,REPORTING
+VCT,SII - Covishield,Covishield,Serum Institute of India,,2021-02-14,,,REPORTING
+NOR,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-03-31,,,REPORTING
+FIN,Moderna - mRNA-1273,mRNA-1273,Moderna,,2020-12-23,,,REPORTING
+MNP,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2020-12-11,2020-12-19,,,REPORTING
+UKR,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2021-02-10,,,REPORTING
+ABW,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2021-02-17,,,REPORTING
+HUN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-23,,,REPORTING
+POL,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2020-12-23,,,REPORTING
+KOR,Moderna - mRNA-1273,mRNA-1273,Moderna,,,,,REPORTING
+SLV,SII - Covishield,Covishield,Serum Institute of India,,2021-04-12,,,REPORTING
+MNG,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2021-01-10,2021-03-19,,,REPORTING
+BEL,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,2021-04-14,,,REPORTING
+SDN,SII - Covishield,Covishield,Serum Institute of India,2021-02-20,2021-03-09,,,REPORTING
+PRT,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-01-13,,,REPORTING
+GTM,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-02-25,,,REPORTING
+EST,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-02-10,,,REPORTING
+PHL,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,2021-03-19,,,,REPORTING
+IND,SII - Covishield,Covishield,Serum Institute of India,2021-01-03,2021-01-16,,,REPORTING
+MDA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2021-03-24,,,REPORTING
+AZE,Sinovac - CoronaVac,Coronavac,Sinovac,,2021-01-20,,,REPORTING
+PYF,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2020-12-29,2021-01-18,,,REPORTING
+LIE,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-02-10,,,REPORTING
+RUS,SRCVB - EpiVacCorona,EpiVacCorona,State Research Center of Virology & Biotechnology,,,,,OWID
+WLF,Moderna - mRNA-1273,mRNA-1273,Moderna,2021-01-06,2021-03-19,,,REPORTING
+HRV,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-01-13,,,REPORTING
+IRN,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,,,,REPORTING
+NOR,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,2021-04-14,,,REPORTING
+IND,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,,,,REPORTING
+PRY,Bharat - Covaxin,Covaxin,Bharat Biotech,,2021-04-10,,,REPORTING
+GHA,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,2021-02-09,2021-03-02,,,REPORTING
+PSE,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2021-01-25,2021-02-02,,,REPORTING
+GUY,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,,,,REPORTING
+SLB,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,,,,REPORTING
+BGD,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+RUS,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,,,,OWID
+GIN,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,2021-01-27,2021-03-05,,,REPORTING
+AGO,SII - Covishield,Covishield,Serum Institute of India,,2021-03-10,,,REPORTING
+POL,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,2020-12-23,,,REPORTING
+CRI,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,REPORTING
+CIV,SII - Covishield,Covishield,Serum Institute of India,2021-02-13,2021-03-01,,,REPORTING
+SYC,SII - Covishield,Covishield,Serum Institute of India,,2021-01-10,,,REPORTING
+SXM,Moderna - mRNA-1273,mRNA-1273,Moderna,,,,,REPORTING
+COM,Bharat - Covaxin,Covaxin,Bharat Biotech,2021-02-01,2021-04-10,,,REPORTING
+SAU,Moderna - mRNA-1273,mRNA-1273,Moderna,,,,,REPORTING
+CAN,SII - Covishield,Covishield,Serum Institute of India,,,,,REPORTING
+FRA,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,2021-04-14,,,REPORTING
+BWA,SII - Covishield,Covishield,Serum Institute of India,,2021-03-26,,,REPORTING
+ROU,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-01-27,,,REPORTING
+PHL,Moderna - mRNA-1273,mRNA-1273,Moderna,,,,,REPORTING
+KOR,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2021-02-09,2021-02-26,,,REPORTING
+NIC,SII - Covishield,Covishield,Serum Institute of India,,2021-04-06,,,REPORTING
+PHL,Novavax - Covavax,Covavax,Novavax,,,,,REPORTING
+ITA,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-01-06,,,REPORTING
+BHR,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+MNG,SII - Covishield,Covishield,Serum Institute of India,2021-01-10,2021-02-23,,,REPORTING
+EGY,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2020-12-30,2021-01-24,,,REPORTING
+CHN,Sinovac - CoronaVac,Coronavac,Sinovac,2021-02-07,,,,REPORTING
+BOL,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,2021-01-30,,,REPORTING
+SOM,SII - Covishield,Covishield,Serum Institute of India,2021-02-22,2021-03-16,,,REPORTING
+MEX,CanSino - Ad5-nCOV,Ad5-nCOV,CanSino Biologicals,,,,,REPORTING
+JAM,SII - Covishield,Covishield,Serum Institute of India,,2021-03-10,,,REPORTING
+PHL,Bharat - Covaxin,Covaxin,Bharat Biotech,2021-04-10,,,,REPORTING
+MHL,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+LBN,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,,,,REPORTING
+LAO,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+BEL,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-30,,,REPORTING
+NOR,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2021-03-31,,,REPORTING
+EST,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-23,,,REPORTING
+JAM,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,REPORTING
+JEY,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,OWID
+MNP,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,2021-02-27,2021-03-19,,,REPORTING
+MUS,SII - Covishield,Covishield,Serum Institute of India,2021-01-21,2021-01-26,,,REPORTING
+FRO,Moderna - mRNA-1273,mRNA-1273,Moderna,,,,,OWID
+BEL,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-01-13,,,REPORTING
+BOL,SII - Covishield,Covishield,Serum Institute of India,,,,,REPORTING
+ARG,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,,,,REPORTING
+PSE,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,,,,REPORTING
+MRT,SII - Covishield,Covishield,Serum Institute of India,,2021-03-26,,,REPORTING
+PRY,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,2021-03-25,,,REPORTING
+BEN,SII - Covishield,Covishield,Serum Institute of India,2021-02-24,2021-03-29,,,REPORTING
+ARG,SII - Covishield,Covishield,Serum Institute of India,,,,,REPORTING
+KOR,Novavax - Covavax,Covavax,Novavax,,,,,REPORTING
+TUN,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,,,,REPORTING
+BTN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2021-03-08,,,,REPORTING
+VCT,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,REPORTING
+BOL,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,,,,REPORTING
+LTU,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,2021-04-28,,,REPORTING
+CUW,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2021-02-24,,,REPORTING
+MNG,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2021-01-10,2021-03-26,,,REPORTING
+MNE,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-03-24,,,REPORTING
+GTM,SII - Covishield,Covishield,Serum Institute of India,,2021-03-03,,,REPORTING
+GRC,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,2021-04-28,,,REPORTING
+HND,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-02-26,,,REPORTING
+SLE,SII - Covishield,Covishield,Serum Institute of India,2021-03-04,2021-03-15,,,REPORTING
+HND,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-03-15,,,REPORTING
+CIV,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,2021-03-01,,,REPORTING
+SSD,SII - Covishield,Covishield,Serum Institute of India,2021-03-01,2021-04-06,,,REPORTING
+ZMB,SII - Covishield,Covishield,Serum Institute of India,2021-02-28,2021-04-14,,,REPORTING
+ISL,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,2021-04-14,,,REPORTING
+LUX,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-23,,,REPORTING
+IRL,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-23,,,REPORTING
+OMN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+SYC,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,2021-01-10,,,REPORTING
+SVK,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2020-12-23,,,REPORTING
+MLT,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-23,,,REPORTING
+ARE,SII - Covishield,Covishield,Serum Institute of India,,,,,REPORTING
+CYM,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2021-01-15,,,REPORTING
+MDA,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-03-03,,,REPORTING
+BLZ,SII - Covishield,Covishield,Serum Institute of India,,2021-03-01,,,REPORTING
+ZWE,Bharat - Covaxin,Covaxin,Bharat Biotech,,2021-02-18,,,REPORTING
+LKA,SII - Covishield,Covishield,Serum Institute of India,2021-01-22,2021-01-29,,,REPORTING
+CAF,Bharat - Covaxin,Covaxin,Bharat Biotech,2021-02-26,2021-03-19,,,REPORTING
+NZL,Novavax - Covavax,Covavax,Novavax,,,,,REPORTING
+LKA,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),2021-05-08,2021-04-05,,,REPORTING
+GIB,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,OWID
+DNK,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-01-13,,,REPORTING
+CHN,CanSino - Ad5-nCOV,Ad5-nCOV,CanSino Biologicals,2020-06-29,,,,REPORTING
+GEO,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-03-17,,,REPORTING
+SUR,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,REPORTING
+BEL,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-02-03,,,REPORTING
+MOZ,SII - Covishield,Covishield,Serum Institute of India,,2021-03-08,,,REPORTING
+GUY,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,,,,REPORTING
+IDN,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2021-02-21,2021-03-23,,,REPORTING
+GBR,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-01-11,,,REPORTING
+VNM,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,2021-03-23,,,,REPORTING
+LBY,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2021-02-24,2021-04-11,,,REPORTING
+BHS,SII - Covishield,Covishield,Serum Institute of India,,2021-03-14,,,REPORTING
+DEU,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-01-13,,,REPORTING
+KHM,Sinovac - CoronaVac,Coronavac,Sinovac,2021-03-12,2021-04-01,,,REPORTING
+ROU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2021-01-27,,,REPORTING
+SMR,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,2021-02-24,,,REPORTING
+IRL,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-01-13,,,REPORTING
+JOR,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,,,,REPORTING
+FSM,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,2021-02-27,,,,REPORTING
+VEN,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,2021-02-13,,,REPORTING
+SYR,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,,,,REPORTING
+SYR,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,,,,REPORTING
+ALB,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-03-10,,,REPORTING
+GIN,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),2021-02-12,2021-03-05,,,REPORTING
+GRL,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,OWID
+USA,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,,,,REPORTING
+NRU,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2021-03-02,2021-04-09,,,REPORTING
+SUR,SII - Covishield,Covishield,Serum Institute of India,,2021-02-23,,,REPORTING
+GIN,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,2021-03-22,2021-03-05,,,REPORTING
+SWE,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-23,,,REPORTING
+CHE,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,OWID
+TTO,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,REPORTING
+HUN,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,2021-04-14,,,REPORTING
+KWT,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+BLZ,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-04-07,,,REPORTING
+PSE,Moderna - mRNA-1273,mRNA-1273,Moderna,,,,,REPORTING
+MLT,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-02-10,,,REPORTING
+NIU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+SRB,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-02-24,,,REPORTING
+BTN,SII - Covishield,Covishield,Serum Institute of India,2021-01-21,2021-03-27,,,REPORTING
+PRI,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+SGP,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,REPORTING
+BIH,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,OWID
+SVK,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-23,,,REPORTING
+NZL,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,REPORTING
+MDV,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2021-03-14,2021-04-13,,,REPORTING
+MCO,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,OWID
+GTM,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-03-15,,,REPORTING
+LUX,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,2021-04-14,,,REPORTING
+FRA,Moderna - mRNA-1273,mRNA-1273,Moderna,,2020-12-23,,,REPORTING
+CRI,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+GIN,Sinovac - CoronaVac,Coronavac,Sinovac,2021-04-01,2021-03-05,,,REPORTING
+BES,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+FSM,Moderna - mRNA-1273,mRNA-1273,Moderna,2020-12-18,2021-01-13,,,REPORTING
+SXM,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2021-02-22,,,REPORTING
+GNQ,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,2021-02-12,,,REPORTING
+JPN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2021-02-14,2021-02-17,,,REPORTING
+JOR,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,,,,REPORTING
+COL,Sinovac - CoronaVac,Coronavac,Sinovac,,2021-02-22,,,REPORTING
+DEU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-23,,,REPORTING
+CHL,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-04-28,,,REPORTING
+SOM,Sinovac - CoronaVac,Coronavac,Sinovac,,,,,REPORTING
+GUM,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,2021-03-15,,,REPORTING
+HUN,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-02-03,,,REPORTING
+CHE,Moderna - mRNA-1273,mRNA-1273,Moderna,,,,,OWID
+NRU,SII - Covishield,Covishield,Serum Institute of India,,,,,REPORTING
+VCT,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,2021-02-01,,,REPORTING
+BRB,SII - Covishield,Covishield,Serum Institute of India,,2021-02-10,,,REPORTING
+KHM,SII - Covishield,Covishield,Serum Institute of India,2021-02-21,2021-03-04,,,REPORTING
+SLV,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2021-03-23,,,REPORTING
+CAN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-14,,,REPORTING
+KWT,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2020-12-13,2020-12-28,,,REPORTING
+DOM,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,REPORTING
+USA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-14,,,REPORTING
+SRB,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-23,,,REPORTING
+ARE,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,,,,REPORTING
+FLK,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,OWID
+ISR,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-16,,,REPORTING
+DJI,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,,,,REPORTING
+VEN,Wuhan CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Wuhan Institute of Biological Products (CNBG),,2021-03-08,,,REPORTING
+ZWE,Sinovac - CoronaVac,Coronavac,Sinovac,,2021-02-18,,,REPORTING
+FJI,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2021-02-22,2021-03-07,,,REPORTING
+KWT,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,,,,REPORTING
+URY,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2021-03-11,,,REPORTING
+SDN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2021-02-20,2021-03-09,,,REPORTING
+COM,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),2021-02-01,2021-04-10,,,REPORTING
+AZE,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-05-05,,,REPORTING
+ALB,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,2021-03-24,,,REPORTING
+DOM,SII - Covishield,Covishield,Serum Institute of India,,2021-02-16,,,REPORTING
+MDA,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,2021-03-24,,,REPORTING
+PRI,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,,,,REPORTING
+JOR,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,,,,REPORTING
+AFG,SII - Covishield,Covishield,Serum Institute of India,2021-02-23,2021-02-22,,,REPORTING
+BGR,Moderna - mRNA-1273,mRNA-1273,Moderna,,2020-12-30,,,REPORTING
+MNE,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,2021-03-03,,,REPORTING
+LBN,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,,,,REPORTING
+BGR,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-02-03,,,REPORTING
+ATG,SII - Covishield,Covishield,Serum Institute of India,,2021-02-19,,,REPORTING
+THA,Sinovac - CoronaVac,Coronavac,Sinovac,2021-02-22,2021-02-28,,,REPORTING
+MNE,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2021-05-05,,,REPORTING
+LVA,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-02-03,,,REPORTING
+MKD,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,2021-04-21,,,REPORTING
+NOR,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-03-31,,,REPORTING
+PHL,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,,,,REPORTING
+SDN,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,,,,REPORTING
+ZWE,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,,,,REPORTING
+BRB,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,REPORTING
+VGB,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-02-11,,,REPORTING
+IRL,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-01-13,,,REPORTING
+ETH,SII - Covishield,Covishield,Serum Institute of India,2021-03-03,2021-03-13,,,REPORTING
+DMA,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,REPORTING
+BRN,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,,,,REPORTING
+GAB,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,2021-03-23,,,REPORTING
+BGR,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-23,,,REPORTING
+MAR,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,,,,REPORTING
+MEX,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+TUN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+QAT,Moderna - mRNA-1273,mRNA-1273,Moderna,,,,,REPORTING
+SLB,SII - Covishield,Covishield,Serum Institute of India,2021-02-22,2021-03-22,,,REPORTING
+GEO,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2021-03-31,,,REPORTING
+MYS,Sinovac - CoronaVac,Coronavac,Sinovac,2021-03-02,2021-03-18,,,REPORTING
+AUT,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-30,,,REPORTING
+MEX,Sinovac - CoronaVac,Coronavac,Sinovac,,,,,REPORTING
+ALB,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2021-01-13,,,REPORTING
+LTU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-23,,,REPORTING
+KGZ,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,,,,OWID
+NIC,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,2021-03-02,,,REPORTING
+AFG,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+KIR,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,REPORTING
+POL,Moderna - mRNA-1273,mRNA-1273,Moderna,,2020-12-23,,,REPORTING
+AUS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2021-01-25,2021-02-22,,,REPORTING
+YEM,SII - Covishield,Covishield,Serum Institute of India,2021-02-27,2021-04-20,,,REPORTING
+GRC,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-01-13,,,REPORTING
+TKM,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-03-31,,,REPORTING
+SAU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+BRA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+KEN,SII - Covishield,Covishield,Serum Institute of India,,2021-03-05,,,REPORTING
+IRQ,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2020-12-29,2021-03-02,,,REPORTING
+MOZ,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,2021-03-08,,,REPORTING
+TCA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2021-01-11,,,REPORTING
+GRC,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-23,,,REPORTING
+THA,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2021-01-21,2021-03-16,,,REPORTING
+ARE,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,,,,REPORTING
+CUW,Moderna - mRNA-1273,mRNA-1273,Moderna,,,,,REPORTING
+DNK,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-30,,,REPORTING
+DZA,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,2021-01-30,,,REPORTING
+DNK,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-02-10,,,REPORTING
+FRA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-23,,,REPORTING
+NLD,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-23,,,REPORTING
+PAN,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-04-22,,,REPORTING
+SRB,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,2021-01-20,,,REPORTING
+SWE,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-02-03,,,REPORTING
+SYR,SII - Covishield,Covishield,Serum Institute of India,2021-02-03,,,,REPORTING
+TKM,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,2021-03-31,,,REPORTING
+MNG,Moderna - mRNA-1273,mRNA-1273,Moderna,2021-01-10,,,,REPORTING
+SLE,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,2021-03-15,,,REPORTING
+ASM,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,,,,REPORTING
+ITA,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,2021-04-21,,,REPORTING
+THA,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,2021-03-25,,,,REPORTING
+ALB,Sinovac - CoronaVac,Coronavac,Sinovac,,2021-03-24,,,REPORTING
+LAO,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,2020-11-25,,,REPORTING
+BRN,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),2021-02-03,2021-04-03,,,REPORTING
+DEU,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-02-10,,,REPORTING
+AND,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2021-01-20,,,REPORTING
+SWZ,SII - Covishield,Covishield,Serum Institute of India,,2021-03-19,,,REPORTING
+JOR,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+NCL,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2020-12-29,2021-01-20,,,REPORTING
+QAT,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+TGO,SII - Covishield,Covishield,Serum Institute of India,,2021-03-10,,,REPORTING
+PHL,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2021-01-28,2021-03-07,,,REPORTING
+MDV,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),2021-03-17,2021-03-22,,,REPORTING
+PHL,Sinovac - CoronaVac,Coronavac,Sinovac,2021-02-22,2021-03-01,,,REPORTING
+URY,Sinovac - CoronaVac,Coronavac,Sinovac,,2021-02-17,,,REPORTING
+GNB,SII - Covishield,Covishield,Serum Institute of India,,2021-04-02,,,REPORTING
+MAR,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2021-01-06,2021-01-28,,,REPORTING
+URY,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-04-17,,,REPORTING
+UZB,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,OWID
+LCA,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,REPORTING
+CYP,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-02-10,,,REPORTING
+AFG,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,,,,REPORTING
+PER,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,2021-02-09,,,REPORTING
+LAO,SII - Covishield,Covishield,Serum Institute of India,2021-02-22,2021-04-02,,,REPORTING
+GRD,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,REPORTING
+LVA,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,2021-04-14,,,REPORTING
+LAO,Sinovac - CoronaVac,Coronavac,Sinovac,2021-02-06,,,,REPORTING
+BGD,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),2021-04-29,,,,REPORTING
+HRV,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,2021-02-17,,,REPORTING
+GUM,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2021-01-04,,,REPORTING
+COK,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+BIH,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,OWID
+JOR,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2020-12-13,2021-01-13,,,REPORTING
+PAK,CanSino - Ad5-nCOV,Ad5-nCOV,CanSino Biologicals,,,,,REPORTING
+PER,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2021-03-08,,,REPORTING
+FRA,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2020-12-23,,,REPORTING
+CHN,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),2020-12-31,,,,REPORTING
+STP,SII - Covishield,Covishield,Serum Institute of India,2021-02-21,2021-03-15,,,REPORTING
+SVN,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-01-20,,,REPORTING
+OMN,SII - Covishield,Covishield,Serum Institute of India,,,,,REPORTING
+SDN,Sinovac - CoronaVac,Coronavac,Sinovac,,,,,REPORTING
+BHR,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2020-12-25,,,REPORTING
+MEX,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,REPORTING
+IND,Bharat - Covaxin,Covaxin,Bharat Biotech,2021-01-03,2021-01-16,,,REPORTING
+BRN,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2021-02-22,2021-04-03,,,REPORTING
+KHM,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),2021-02-04,2021-02-10,,,REPORTING
+BIH,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,,,,OWID
+NZL,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2021-02-03,2021-02-19,,,REPORTING
+ALB,SII - Covishield,Covishield,Serum Institute of India,,2021-04-14,,,REPORTING
+BRN,Moderna - mRNA-1273,mRNA-1273,Moderna,,,,,REPORTING
+SMR,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2021-03-03,,,REPORTING
+VNM,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2021-02-01,2021-03-08,,,REPORTING
+NLD,Moderna - mRNA-1273,mRNA-1273,Moderna,,2020-12-23,,,REPORTING
+GGY,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,OWID
+MLT,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-02-03,,,REPORTING
+MKD,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-03-31,,,REPORTING
+AUS,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2021-02-17,2021-03-08,,,REPORTING
+COL,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2021-02-17,,,REPORTING
+TUN,Sinovac - CoronaVac,Coronavac,Sinovac,,,,,REPORTING
+ARE,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2020-12-14,,,REPORTING
+GMB,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,2021-03-10,,,REPORTING
+GEO,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,2021-05-05,,,REPORTING
+TUV,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2021-03-02,2021-04-13,,,REPORTING
+BRA,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,REPORTING
+JPN,Moderna - mRNA-1273,mRNA-1273,Moderna,,,,,REPORTING
+ESP,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-30,,,REPORTING
+COG,SII - Covishield,Covishield,Serum Institute of India,2021-03-03,2021-03-23,,,REPORTING
+LTU,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-02-10,,,REPORTING
+IRN,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2021-01-27,2021-02-09,,,REPORTING
+COG,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),2021-03-03,2021-03-23,,,REPORTING
+SGP,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2020-12-14,2020-12-30,,,REPORTING
+ASM,Moderna - mRNA-1273,mRNA-1273,Moderna,,2020-12-23,,,REPORTING
+TON,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2021-02-22,2021-04-14,,,REPORTING
+AUT,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2020-12-30,,,REPORTING
+LBY,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+CHL,Sinovac - CoronaVac,Coronavac,Sinovac,,2021-02-03,,,REPORTING
+PHL,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2021-01-14,,,,REPORTING
+FJI,SII - Covishield,Covishield,Serum Institute of India,,2021-04-06,,,REPORTING
+FSM,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2021-01-13,,,REPORTING
+ISL,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-30,,,REPORTING
+TUN,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2021-01-11,2021-03-13,,,REPORTING
+GUM,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-01-29,,,REPORTING
+TKL,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+LBY,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,,,,REPORTING
+NAM,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,2021-03-19,,,REPORTING
+BRN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+CYP,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-01-13,,,REPORTING
+SEN,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,2021-02-23,,,REPORTING
+LBN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+ARM,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,,,,OWID
+CPV,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2021-02-19,2021-03-18,,,REPORTING
+USA,Moderna - mRNA-1273,mRNA-1273,Moderna,,2020-12-21,,,REPORTING
+BRA,Sinovac - CoronaVac,Coronavac,Sinovac,,2021-01-17,,,REPORTING
+CYP,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-23,,,REPORTING
+NPL,Bharat - Covaxin,Covaxin,Bharat Biotech,2021-03-19,,,,REPORTING
+DMA,SII - Covishield,Covishield,Serum Institute of India,,2021-02-12,,,REPORTING
+MWI,SII - Covishield,Covishield,Serum Institute of India,,2021-03-11,,,REPORTING
+MAR,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,,,,REPORTING
+BHR,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,,,,REPORTING
+TUR,Sinovac - CoronaVac,Coronavac,Sinovac,,,,,OWID
+ESP,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2020-12-30,,,REPORTING
+LSO,SII - Covishield,Covishield,Serum Institute of India,2021-02-25,2021-03-10,,,REPORTING
+GUY,SII - Covishield,Covishield,Serum Institute of India,,2021-02-11,,,REPORTING
+BMU,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,REPORTING
+CHN,Anhui ZL - Recombinant,Recombinant SARS-CoV-2 vaccine,Anhui Zhifei Longcom Biophamaceutical,2021-03-17,,,,REPORTING
+PNG,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,,,,REPORTING
+GNQ,Sinovac - CoronaVac,Coronavac,Sinovac,,2021-02-12,,,REPORTING
+HND,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,2021-04-22,,,REPORTING
+MLI,SII - Covishield,Covishield,Serum Institute of India,2021-02-19,2021-03-31,,,REPORTING
+MAR,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,,,,REPORTING
+TLS,SII - Covishield,Covishield,Serum Institute of India,2021-02-23,2021-04-07,,,REPORTING
+ETH,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),2021-03-05,2021-03-13,,,REPORTING
+SGP,Moderna - mRNA-1273,mRNA-1273,Moderna,2021-02-03,2021-03-17,,,REPORTING
+CHL,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-21,,,REPORTING
+THA,SII - Covishield,Covishield,Serum Institute of India,2021-01-21,2021-03-16,,,REPORTING
+ISL,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-02-03,,,REPORTING
+BOL,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+KOR,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2021-03-04,2021-02-27,,,REPORTING
+DZA,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,2021-01-10,2021-01-30,,,REPORTING
+LTU,Moderna - mRNA-1273,mRNA-1273,Moderna,,2020-12-23,,,REPORTING
+LVA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-23,,,REPORTING
+IRN,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,,,,REPORTING
+MYS,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,2021-01-08,2021-02-24,,,REPORTING
+IMN,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,OWID
+MYS,CanSino - Ad5-nCOV,Ad5-nCOV,CanSino Biologicals,,,,,REPORTING
+KNA,SII - Covishield,Covishield,Serum Institute of India,,2021-02-22,,,REPORTING
+MYS,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2021-03-02,,,,REPORTING
+LVA,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-01-13,,,REPORTING
+TTO,SII - Covishield,Covishield,Serum Institute of India,,2021-02-17,,,REPORTING
+HUN,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,2021-02-03,,,REPORTING
+KGZ,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,,,,OWID
+PAK,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,,,,REPORTING
+PAK,Sinovac - CoronaVac,Coronavac,Sinovac,,,,,REPORTING
+ECU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2021-01-21,,,REPORTING
+ITA,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-01-20,,,REPORTING
+VEN,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,2021-03-13,,,REPORTING
+QAT,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2020-12-23,,,REPORTING
+BGD,SII - Covishield,Covishield,Serum Institute of India,2021-01-07,2021-01-27,,,REPORTING
+HUN,Sinovac - CoronaVac,Coronavac,Sinovac,,2021-02-15,,,REPORTING
+SLV,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-02-17,,,REPORTING
+BHS,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,REPORTING
+BLZ,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,,,,REPORTING
+DEU,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,2021-04-21,,,REPORTING
+ASM,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-21,,,REPORTING
+ECU,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,REPORTING
+NPL,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,2021-04-20,,,,REPORTING
+AUT,Moderna - mRNA-1273,mRNA-1273,Moderna,,2020-12-30,,,REPORTING
+POL,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-23,,,REPORTING
+ETH,Bharat - Covaxin,Covaxin,Bharat Biotech,2021-03-03,2021-03-13,,,REPORTING
+BRA,SII - Covishield,Covishield,Serum Institute of India,,2021-01-17,,,REPORTING
+SVN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-23,,,REPORTING
+IRN,Bharat - Covaxin,Covaxin,Bharat Biotech,,,,,REPORTING
+LUX,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-01-13,,,REPORTING
+ROU,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-02-10,,,REPORTING
+PRT,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,2021-03-03,,,REPORTING
+PLW,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-01-03,,,REPORTING
+TKM,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,2021-03-31,,,REPORTING
+RWA,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-02-14,,,REPORTING
+BLR,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,2021-02-03,,,REPORTING
+PSE,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,,,,REPORTING
+SAU,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2020-12-10,2021-01-06,,,REPORTING
+LBR,SII - Covishield,Covishield,Serum Institute of India,2021-03-15,2021-04-01,,,REPORTING
+CAN,Moderna - mRNA-1273,mRNA-1273,Moderna,,,,,REPORTING
+SHN,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,OWID
+CZE,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-01-13,,,REPORTING
+HUN,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-01-13,,,REPORTING
+CHN,Wuhan CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Wuhan Institute of Biological Products (CNBG),2020-07-22,,,,REPORTING
+NLD,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2020-12-23,,,REPORTING
+GRD,SII - Covishield,Covishield,Serum Institute of India,,2021-02-15,,,REPORTING
+RWA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2021-02-14,,,REPORTING
+MNP,Moderna - mRNA-1273,mRNA-1273,Moderna,2020-12-18,2021-01-12,,,REPORTING
+PNG,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2021-03-18,2021-03-30,,,REPORTING
+IDN,Sinovac - CoronaVac,Coronavac,Sinovac,2021-01-11,2021-01-13,,,REPORTING
+MYS,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,,,,REPORTING
+VUT,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,REPORTING
+IRQ,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+ESP,Moderna - mRNA-1273,mRNA-1273,Moderna,,2020-12-30,,,REPORTING
+MNG,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,2021-02-06,,,,REPORTING
+OMN,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2021-02-14,2020-12-29,,,REPORTING
+CPV,SII - Covishield,Covishield,Serum Institute of India,2021-02-25,2021-03-18,,,REPORTING
+ECU,Sinovac - CoronaVac,Coronavac,Sinovac,,,,,REPORTING
+FIN,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2020-12-23,,,REPORTING
+SXM,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,REPORTING
+GRC,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-02-10,,,REPORTING
+BIH,Sinovac - CoronaVac,Coronavac,Sinovac,,,,,OWID
+FSM,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,REPORTING
+MDG,SII - Covishield,Covishield,Serum Institute of India,2021-03-26,2021-05-10,,,REPORTING
+AUT,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,2020-12-30,,,REPORTING
+GNB,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,2021-04-02,,,REPORTING
+TKM,SRCVB - EpiVacCorona,EpiVacCorona,State Research Center of Virology & Biotechnology,,2021-03-31,,,REPORTING
+COG,Moderna - mRNA-1273,mRNA-1273,Moderna,2021-03-03,2021-03-23,,,REPORTING
+UKR,Sinovac - CoronaVac,Coronavac,Sinovac,,2021-04-14,,,REPORTING
+BGD,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,2021-04-27,,,,REPORTING
+PLW,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,,,,REPORTING
+NPL,SII - Covishield,Covishield,Serum Institute of India,2021-01-15,2021-01-27,,,REPORTING
+MNE,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,2021-02-24,,,REPORTING
+JEY,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,OWID
+BGR,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,2021-04-14,,,REPORTING
+HND,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,,,,REPORTING
+ESP,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,2020-12-30,,,REPORTING
+RWA,SII - Covishield,Covishield,Serum Institute of India,,2021-02-14,,,REPORTING
+IMN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,OWID
+COD,SII - Covishield,Covishield,Serum Institute of India,2021-02-26,2021-04-19,,,REPORTING
+MKD,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,2021-03-10,,,REPORTING
+FIN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-23,,,REPORTING
+UGA,SII - Covishield,Covishield,Serum Institute of India,,2021-03-10,,,REPORTING
+ZAF,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,2021-02-17,,,REPORTING
+HUN,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,2021-02-17,,,REPORTING
+GBR,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-02-08,,,REPORTING
+TUR,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,OWID
+DJI,SII - Covishield,Covishield,Serum Institute of India,2021-02-22,2021-03-15,,,REPORTING
+HRV,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-23,,,REPORTING
+DJI,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,,,,REPORTING
+NZL,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,,,,REPORTING
+MHL,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,,,,REPORTING
+ISR,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-03-03,,,REPORTING
+IRQ,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,,,,REPORTING
+BMU,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2021-01-11,,,REPORTING
+GGY,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,OWID
+SVK,Moderna - mRNA-1273,mRNA-1273,Moderna,,2020-12-23,,,REPORTING
+BHR,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,,,,REPORTING
+GMB,SII - Covishield,Covishield,Serum Institute of India,2021-02-12,2021-03-10,,,REPORTING
+JPN,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,REPORTING
+PRI,Moderna - mRNA-1273,mRNA-1273,Moderna,,,,,REPORTING
+MEX,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,,,,REPORTING
+ARG,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,2020-12-29,,,REPORTING
+JPN,Novavax - Covavax,Covavax,Novavax,,,,,REPORTING
+MDA,Sinovac - CoronaVac,Coronavac,Sinovac,,2021-04-28,,,REPORTING
+GIN,SII - Covishield,Covishield,Serum Institute of India,2021-02-18,2021-03-05,,,REPORTING
+EST,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-01-13,,,REPORTING
+EGY,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,,,,REPORTING
+ISL,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-01-13,,,REPORTING
+UKR,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-02-17,,,REPORTING
+PRY,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-03-25,,,REPORTING
+COM,SII - Covishield,Covishield,Serum Institute of India,,2021-04-10,,,REPORTING
+COG,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,2021-03-03,2021-03-23,,,REPORTING
+PAN,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2021-01-20,,,REPORTING
+CYP,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,2021-04-21,,,REPORTING
+PRT,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-23,,,REPORTING
+WSM,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2021-02-23,2021-04-18,,,REPORTING
+PSE,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,REPORTING
+PER,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-04-21,,,REPORTING
+CZE,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-23,,,REPORTING
+CMR,SII - Covishield,Covishield,Serum Institute of India,2021-03-04,2021-04-12,,,REPORTING
+MDV,SII - Covishield,Covishield,Serum Institute of India,2021-01-29,2021-02-01,,,REPORTING
+BHR,SII - Covishield,Covishield,Serum Institute of India,,2020-12-25,,,REPORTING
+SLV,Sinovac - CoronaVac,Coronavac,Sinovac,,2021-03-28,,,REPORTING
+GUY,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,REPORTING
+IRL,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,2021-04-14,,,REPORTING
+MSR,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-02-08,,,REPORTING
+ARG,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,REPORTING
+MUS,Bharat - Covaxin,Covaxin,Bharat Biotech,2021-03-18,,,,REPORTING
+PAK,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),,,,,REPORTING
+EGY,Sinovac - CoronaVac,Coronavac,Sinovac,,,,,REPORTING
+SEN,SII - Covishield,Covishield,Serum Institute of India,2021-02-16,2021-02-23,,,REPORTING
+BES,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-02-22,,,REPORTING
+SRB,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,2021-01-06,,,REPORTING
+GBR,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-21,,,REPORTING
+PNG,SII - Covishield,Covishield,Serum Institute of India,2021-03-02,2021-04-23,,,REPORTING
+AIA,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-02-05,,,REPORTING
+PRY,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,2021-02-22,,,REPORTING
+KOR,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,,,,REPORTING
+MNG,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),2021-01-10,2021-03-10,,,REPORTING
+LUX,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-02-03,,,REPORTING
+PHL,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,2021-04-19,,,,REPORTING
+MMR,SII - Covishield,Covishield,Serum Institute of India,2021-01-20,2021-01-27,,,REPORTING
+MDA,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,2021-04-28,,,REPORTING
+LBN,AstraZeneca - AZD1222,AZD1222,AstraZeneca,2021-12-16,2021-02-14,,,REPORTING
+STP,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-03-15,,,REPORTING
+GHA,SII - Covishield,Covishield,Serum Institute of India,2021-02-12,2021-03-02,,,REPORTING
+ROU,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,2021-04-28,,,REPORTING
+TJK,SII - Covishield,Covishield,Serum Institute of India,,2021-04-28,,,REPORTING
+KAZ,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,2021-03-17,,,REPORTING
+CMR,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),2021-04-01,2021-04-12,,,REPORTING
+LBY,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,,,,REPORTING
+LKA,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,2021-03-04,2021-05-06,,,REPORTING
+PER,Wuhan CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Wuhan Institute of Biological Products (CNBG),2001-01-26,2021-02-09,,,REPORTING
+LCA,SII - Covishield,Covishield,Serum Institute of India,,2021-02-17,,,REPORTING
+PRT,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-01-13,,,REPORTING
+BHR,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,,,,REPORTING
+MUS,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),2021-03-18,,,,REPORTING
+ITA,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,2020-12-23,,,REPORTING
+TJK,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-04-07,,,REPORTING
+FRO,Pfizer BioNTech - Comirnaty,Comirnaty,Pfizer BioNTech,,,,,OWID
+NLD,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,2020-12-23,,,REPORTING
+NAM,SII - Covishield,Covishield,Serum Institute of India,,2021-03-19,,,REPORTING
+SVN,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,2021-02-10,,,REPORTING
+ATG,AstraZeneca - AZD1222,AZD1222,AstraZeneca,,,,,REPORTING
+NGA,SII - Covishield,Covishield,Serum Institute of India,2021-03-04,2021-03-05,,,REPORTING
+SWE,Moderna - mRNA-1273,mRNA-1273,Moderna,,2021-01-13,,,REPORTING
+NPL,Beijing CNBG - Inactivated,Inactivated SARS-CoV-2 vaccine,Beijing Institute of Biological Products (CNBG),2021-02-17,2021-04-07,,,REPORTING
+SVN,Janssen - Ad26.COV 2.5,Ad26.COV 2.5,Janssen Pharmaceuticals,,2021-04-28,,,REPORTING
+IRQ,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,,,,,REPORTING
+LAO,Gamaleya - Sputnik V,Sputnik V,Gamaleya Research Institute,2021-02-03,2021-02-09,,,REPORTING
