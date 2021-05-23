@@ -1,0 +1,87 @@
+Entity,Code,Day,willingness_covid_vaccinate_this_week
+Australia,AUS,2020/11/30,54.5
+Australia,AUS,2020/12/31,50.3
+Australia,AUS,2021/1/31,48.3
+Australia,AUS,2021/2/28,53
+Australia,AUS,2021/3/31,52.1
+Australia,AUS,2021/4/27,48.5
+Canada,CAN,2020/11/30,44.4
+Canada,CAN,2020/12/31,48.9
+Canada,CAN,2021/1/31,55.5
+Canada,CAN,2021/2/28,55.6
+Canada,CAN,2021/3/31,59.9
+Canada,CAN,2021/4/27,56.4
+Denmark,DNK,2020/11/30,53.8
+Denmark,DNK,2020/12/31,53.1
+Denmark,DNK,2021/1/31,65.7
+Denmark,DNK,2021/2/28,72
+Denmark,DNK,2021/3/31,64.7
+Denmark,DNK,2021/4/27,67.4
+Finland,FIN,2020/11/30,36.7
+Finland,FIN,2020/12/31,44.5
+Finland,FIN,2021/1/31,57.7
+France,FRA,2020/11/30,24.7
+France,FRA,2020/12/31,19.9
+France,FRA,2021/1/31,35.6
+France,FRA,2021/2/28,40.7
+France,FRA,2021/3/31,40.1
+France,FRA,2021/4/27,38.6
+Germany,DEU,2020/11/30,39.9
+Germany,DEU,2020/12/31,41
+Germany,DEU,2021/1/31,52
+Germany,DEU,2021/2/28,59.4
+Germany,DEU,2021/3/31,58.3
+Germany,DEU,2021/4/27,60.8
+Italy,ITA,2020/11/30,40.4
+Italy,ITA,2020/12/31,39.4
+Italy,ITA,2021/1/31,55.3
+Italy,ITA,2021/2/28,60.7
+Italy,ITA,2021/3/31,58.5
+Italy,ITA,2021/4/27,57.3
+Japan,JPN,2020/11/30,39
+Japan,JPN,2021/1/31,36.8
+Japan,JPN,2021/2/28,49.8
+Japan,JPN,2021/3/31,53.4
+Netherlands,NLD,2020/11/30,45
+Netherlands,NLD,2020/12/31,51.6
+Netherlands,NLD,2021/1/31,61.7
+Netherlands,NLD,2021/2/28,61.1
+Norway,NOR,2020/11/30,42.2
+Norway,NOR,2020/12/31,45.7
+Norway,NOR,2021/1/31,55.4
+Norway,NOR,2021/2/28,59.5
+Norway,NOR,2021/3/31,57.4
+Norway,NOR,2021/4/27,61.3
+Singapore,SGP,2020/11/30,35.5
+Singapore,SGP,2020/12/31,31.1
+Singapore,SGP,2021/1/31,36.4
+Singapore,SGP,2021/2/28,47.5
+Singapore,SGP,2021/3/31,50.3
+Singapore,SGP,2021/4/27,54.1
+South Korea,KOR,2021/1/31,43.9
+South Korea,KOR,2021/2/28,49.7
+South Korea,KOR,2021/3/31,49.6
+Spain,ESP,2020/11/30,28.2
+Spain,ESP,2020/12/31,39.9
+Spain,ESP,2021/1/31,52.7
+Spain,ESP,2021/2/28,55.1
+Spain,ESP,2021/3/31,53.8
+Spain,ESP,2021/4/27,53.7
+Sweden,SWE,2020/11/30,34.6
+Sweden,SWE,2020/12/31,43
+Sweden,SWE,2021/1/31,55.9
+Sweden,SWE,2021/2/28,61.8
+Sweden,SWE,2021/3/31,61.9
+Sweden,SWE,2021/4/27,59.5
+United Kingdom,GBR,2020/11/30,54.2
+United Kingdom,GBR,2020/12/31,71.3
+United Kingdom,GBR,2021/1/31,78.1
+United Kingdom,GBR,2021/2/28,76.3
+United Kingdom,GBR,2021/3/31,67.5
+United Kingdom,GBR,2021/4/27,67.2
+United States,USA,2020/11/30,37.5
+United States,USA,2020/12/31,32.1
+United States,USA,2021/1/31,36.7
+United States,USA,2021/2/28,47.2
+United States,USA,2021/3/31,42.8
+United States,USA,2021/4/27,36.1
